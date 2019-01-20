@@ -4,6 +4,7 @@
 #include "PMT.h"
 #include "PV.h"
 #include "Computation_n.h"
+#include "Yield_Computation.h"
 
 using namespace std ;
 
