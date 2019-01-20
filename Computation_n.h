@@ -33,7 +33,7 @@ void n_comptutation() {
     cout << "Provide a value for the instalment : PMT" << endl;
     cin >> PMT;
     while(PMT<= r*PV) {
-        cout << "Please provide a strictly greater than r*PV " << endl;
+        cout << "Please provide a number strictly greater than r*PV " << endl;
         cin >> PMT;
     }
 
