@@ -11,7 +11,8 @@ using namespace std ;
 int main() {
     //pmt();
    //pv();
-    n_comptutation();
+   //n_comptutation();
+    YTM();
 
 }
 
